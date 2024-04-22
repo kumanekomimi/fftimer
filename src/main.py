@@ -63,7 +63,7 @@ def main():
       pass
     else:
       print("お疲れ様でした!!")
-      con_flag == True
+      con_flag = True
 
 
 if __name__ == '__main__':
